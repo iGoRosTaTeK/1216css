@@ -1,0 +1,41 @@
+A
+ {
+ font-size:16pt;
+ text-decoration:none;
+ }
+A:link
+ {
+ color:navy;
+ }
+A:visited
+ {
+ color:green;
+ }
+A:hover
+ {
+ color:red;
+ text-decoration:underline;
+ }
+/*Male odnosniki*/
+A.maly
+{
+    font-size: 16pt;
+    }
+   A.maly:link
+    {
+    color:rgb(255, 0, 0);;
+    }
+   A.maly:visited
+    {
+    color:rgba(0, 255, 34, 0.548);
+    }
+   A.maly:hover
+    {
+    color:rgb(0, 253, 190);
+    text-decoration:none;
+    }
+   A:active
+    {
+    color:rgb(0, 204, 255);
+    }
+   

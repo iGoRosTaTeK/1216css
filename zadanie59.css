@@ -1,0 +1,18 @@
+A
+{
+font-size: 16pt;
+text-decoration: none;
+}
+A:link
+{
+color: rgb(0, 0, 59);
+}
+A:visited
+{
+color: rgb(248, 0, 194);
+}
+A:hover
+{
+color: rgb(255, 230, 0);
+text-decoration: underline;
+}
